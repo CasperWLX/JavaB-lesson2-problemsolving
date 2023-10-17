@@ -7,15 +7,12 @@ import com.hampus.demo.modules.Student;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.Scanner;
 
 public class Main
 {
-    static Scanner input = new Scanner(System.in);
-
     public static void main(String[] args)
     {
-        //Shopping solution//
+        //Shopping solution (this is an infinite loop)//
         //Shopping shop = new Shopping();
         //shop.run();
 
